@@ -60,4 +60,4 @@ gi.r{hyz-xx.
 ~https://anabelisa.co/readme/
 
 # Resultado
-![](figures/images.png)
+![](figures/figures.png)
